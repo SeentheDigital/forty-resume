@@ -3,8 +3,8 @@ title: Portofolio
 subtitle: by Forty
 email: sequiosta.g@gmail.com
 description: My name is Diaz Aditya<br /> and this is a demonstration of my portofolio.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/forty-resume" # the subpath of your site, e.g. /blog
+url: https://seenthedigital.github.io/
 author:
 street_address: Jl Harapan V No. 10
 city: Jakarta Timur
