@@ -23,12 +23,12 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="profile.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="assets/images/database-server.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Tennis</h3>
+					<h3>Local Inquiry Database</h3>
 				</header>
 				<p>I have built a mini server for this site and where they are stored for the purposes of archival using SQL Database Systems. As the site grows and skills acquired I will plan to build upon this
 				further with NoSQL Database Systems to make it more dynamic.</p>
@@ -39,8 +39,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="profilec.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="profile.html" class="image">
+			<img src="assets/images/philosophy.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="profile.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="link assets/images/tennis.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
