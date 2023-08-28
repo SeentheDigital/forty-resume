@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-This is a repository for my projects and documenting some of my hobbies. Please look forward for more updates and entries through this site and github.
+This is for my blog entries update that i rarely use and is mostly for testing connections between the pages in my site.
