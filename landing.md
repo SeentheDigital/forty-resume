@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Simple Calcultor</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This is a simple calculator written in python capable of addition, substraction, multiplication and division for the basic operations. It can parse some strings capable of </p>
 	</div>
 </section>
 
@@ -28,9 +28,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Tennis</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I have built a mini server for this site and where they are stored for the purposes of archival using SQL Database Systems. As the site grows and skills acquired I will plan to build upon this
+				further with NoSQL Database Systems to make it more dynamic.</p>
 				<ul class="actions">
 					<li><a href="profile.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +45,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Tennis</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>IThe sport of tennis is an exciting and fascinating play of a racquet game. The strategy and 
+				tactics being offered by the game is something to behold. It is not simply hitting balls with
+				your racquet but a game of mental fortitude and spatial awareness</p>
 				<ul class="actions">
 					<li><a href="profile.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +63,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Philosophy</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>It has been said that philosophy is an abstract field that has no practical uses but that is not
+				the case. The principle of epistemology and ethics are important things we need to understand. To
+				understand how the knowledge that we acquire and gather are true and what one ought to do to be
+				a moral and just person. These are important questions.</p>
 				<ul class="actions">
 					<li><a href="profile.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,11 +81,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>This is an example of my project building a dashboard website for the client user side to access data and information of the company resource and assets.</p>
 		<ul class="actions">
-			<li><a href="profile.html" class="button next">Get Started</a></li>
+			<li><a href="profile.html" class="button next">See more</a></li>
 		</ul>
 	</div>
 </section>
